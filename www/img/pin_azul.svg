@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='GitLab Community Edition' name='description'>
+<title>
+www/img/pin_azul.svg at master | 
+GitLab
+</title>
+<link href="/assets/favicon-d6aa61c7c265900a7d4c45d3ac2b461f.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/assets/application-715bc4efac6b42deb84d495309f19f9a.css" media="all" rel="stylesheet" />
+<link href="/assets/print-8597f8b497e02f892aa5a4b25d5a857b.css" media="print" rel="stylesheet" />
+<script src="/assets/application-5ec1aeb4604cbfbeff836f956308b0ed.js"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="3KGk1Aaqz1cgP9TCd9usyBC2lEWcYAX4rQZEdq0OPUw=" name="csrf-token" />
+<script type="text/javascript">
+//<![CDATA[
+window.gon={};gon.default_issues_tracker="gitlab";gon.api_version="v3";gon.relative_url_root="";gon.default_avatar_url="https://git.procempa.com.br/assets/no_avatar-fd406ccede8cb1881f20921c8bfa169b.png";gon.current_user_id=15;gon.api_token="GGaovrb5-iKwSxwLTbzy";
+//]]>
+</script>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='#474D57' name='theme-color'>
+
+
+</head>
+
+<body class='ui_mars  project' data-page='projects:blob:show' data-project-id='203'>
+<header class='navbar navbar-fixed-top navbar-gitlab'>
+<div class='navbar-inner'>
+<div class='container'>
+<div class='app_logo'>
+<a class="home has_bottom_tooltip" href="/" title="Dashboard"><img alt="Logo white" src="/assets/logo-white-0b53cd4ea06811d79b3acd486384e047.png" />
+</a></div>
+<h1 class='title'><span><a href="/groups/governoeletronico">governoeletronico</a> / <a href="/governoeletronico/poalivre">poalivre</a></span></h1>
+<button class='navbar-toggle' data-target='.navbar-collapse' data-toggle='collapse' type='button'>
+<span class='sr-only'>Toggle navigation</span>
+<i class='fa fa-bars'></i>
+</button>
+<div class='navbar-collapse collapse'>
+<ul class='nav navbar-nav'>
+<li class='hidden-sm hidden-xs'>
+<div class='search'>
+<form accept-charset="UTF-8" action="/search" class="navbar-form pull-left" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<input class="search-input" id="search" name="search" placeholder="Search in this project" type="search" />
+<input id="group_id" name="group_id" type="hidden" />
+<input id="project_id" name="project_id" type="hidden" value="203" />
+<input id="search_code" name="search_code" type="hidden" value="true" />
+<input id="repository_ref" name="repository_ref" type="hidden" value="master" />
+
+<div class='search-autocomplete-opts hide' data-autocomplete-path='/search/autocomplete' data-autocomplete-project-id='203' data-autocomplete-project-ref='master'></div>
+</form>
+
+</div>
+<script>
+  $('.search-input').on('keyup', function(e) {
+    if (e.keyCode == 27) {
+      $('.search-input').blur()
+    }
+  })
+</script>
+
+</li>
+<li class='visible-sm visible-xs'>
+<a class="has_bottom_tooltip" data-original-title="Search area" href="/search" title="Search"><i class='fa fa-search'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="Help" href="/help" title="Help"><i class='fa fa-question-circle'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="Public area" href="/explore" title="Explore"><i class='fa fa-globe'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="My snippets" href="/s/leonardo.kuamoto" title="My snippets"><i class='fa fa-clipboard'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="New project" href="/projects/new" title="New project"><i class='fa fa-plus'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="Profile settings&quot;" href="/profile" title="Profile settings"><i class='fa fa-user'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-method="delete" data-original-title="Logout" href="/users/sign_out" rel="nofollow" title="Logout"><i class='fa fa-sign-out'></i>
+</a></li>
+<li class='hidden-xs'>
+<a class="profile-pic has_bottom_tooltip" data-original-title="Your profile" href="/u/leonardo.kuamoto" id="profile-pic"><img alt="User activity" src="https://secure.gravatar.com/avatar/c58df5bb6bf095c98a2c2ce40c46822e?s=60&amp;d=identicon" />
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+
+
+<script>
+  GitLab.GfmAutoComplete.dataSource = "/governoeletronico/poalivre/autocomplete_sources?type=NilClass&type_id=master%2Fwww%2Fimg%2Fpin_azul.svg"
+  GitLab.GfmAutoComplete.setup();
+</script>
+
+<div class='page-sidebar-expanded page-with-sidebar'>
+
+<div class='sidebar-wrapper'>
+<ul class='project-navigation nav nav-sidebar'>
+<li class="home"><a class="shortcuts-project" href="/governoeletronico/poalivre" title="Project"><i class='fa fa-dashboard'></i>
+<span>
+Project
+</span>
+</a></li><li class="active"><a class="shortcuts-tree" href="/governoeletronico/poalivre/tree/master" title="Files"><i class='fa fa-files-o'></i>
+<span>
+Files
+</span>
+</a></li><li class=""><a class="shortcuts-commits" href="/governoeletronico/poalivre/commits/master" title="Commits"><i class='fa fa-history'></i>
+<span>
+Commits
+</span>
+</a></li><li class=""><a class="shortcuts-network" href="/governoeletronico/poalivre/network/master" title="Network"><i class='fa fa-code-fork'></i>
+<span>
+Network
+</span>
+</a></li><li class=""><a class="shortcuts-graphs" href="/governoeletronico/poalivre/graphs/master" title="Graphs"><i class='fa fa-area-chart'></i>
+<span>
+Graphs
+</span>
+</a></li><li class=""><a href="/governoeletronico/poalivre/milestones" title="Milestones"><i class='fa fa-clock-o'></i>
+<span>
+Milestones
+</span>
+</a></li><li class=""><a class="shortcuts-issues" href="/governoeletronico/poalivre/issues" title="Issues"><i class='fa fa-exclamation-circle'></i>
+<span>
+Issues
+<span class='count issue_counter'>0</span>
+</span>
+</a></li><li class=""><a class="shortcuts-merge_requests" href="/governoeletronico/poalivre/merge_requests" title="Merge Requests"><i class='fa fa-tasks'></i>
+<span>
+Merge Requests
+<span class='count merge_counter'>0</span>
+</span>
+</a></li><li class=""><a href="/governoeletronico/poalivre/labels" title="Labels"><i class='fa fa-tags'></i>
+<span>
+Labels
+</span>
+</a></li><li class=""><a class="shortcuts-wiki" href="/governoeletronico/poalivre/wikis/home" title="Wiki"><i class='fa fa-book'></i>
+<span>
+Wiki
+</span>
+</a></li></ul>
+
+<div class='collapse-nav'>
+<a class="toggle-nav-collapse" href="#" title="Open/Close"><i class="fa fa-angle-left"></i></a>
+
+</div>
+</div>
+<div class='content-wrapper'>
+<div class='container-fluid'>
+<div class='content'>
+<div class='flash-container'>
+</div>
+
+<div class='clearfix'>
+<div class='tree-ref-holder'>
+<form accept-charset="UTF-8" action="/governoeletronico/poalivre/refs/switch" class="project-refs-form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<select class="project-refs-select select2 select2-sm" id="ref" name="ref"><optgroup label="Branches"><option selected="selected" value="master">master</option></optgroup><optgroup label="Tags"></optgroup></select>
+<input id="destination" name="destination" type="hidden" value="blob" />
+<input id="path" name="path" type="hidden" value="www/img/pin_azul.svg" />
+</form>
+
+
+</div>
+<div class='tree-holder' id='tree-holder'>
+<ul class='breadcrumb repo-breadcrumb'>
+<li>
+<i class='fa fa-angle-right'></i>
+<a href="/governoeletronico/poalivre/tree/master">poalivre
+</a></li>
+<li>
+<a href="/governoeletronico/poalivre/tree/master/www">www</a>
+</li>
+<li>
+<a href="/governoeletronico/poalivre/tree/master/www/img">img</a>
+</li>
+<li>
+<a href="/governoeletronico/poalivre/blob/master/www/img/pin_azul.svg"><strong>
+pin_azul.svg
+</strong>
+</a></li>
+</ul>
+<ul class='blob-commit-info well hidden-xs'>
+<li class='commit js-toggle-container'>
+<div class='commit-row-title'>
+<strong class='str-truncated'>
+<a class="commit-row-message" href="/governoeletronico/poalivre/commit/ec2ffdb84e9cfde5f15c6390a81a372784669933">Imagens em alta resolução</a>
+</strong>
+<div class='pull-right'>
+<a class="commit_short_id" href="/governoeletronico/poalivre/commit/ec2ffdb84e9cfde5f15c6390a81a372784669933">ec2ffdb8</a>
+</div>
+<div class='notes_count'>
+</div>
+</div>
+<div class='commit-row-info'>
+<a class="commit-author-link has_tooltip" data-original-title="ivson.viana@procempa.com.br" href="/u/ivson.viana"><img alt="" class="avatar s24" src="https://secure.gravatar.com/avatar/6df440a815a0a5debf65cecbf2d58617?s=24&amp;d=identicon" width="24" /> <span class="commit-author-name">Ivson Monteiro Viana</span></a>
+authored
+<div class='committed_ago'>
+<time class='time_ago' data-placement='top' data-toggle='tooltip' datetime='2016-01-11T15:38:59Z' title='Jan 11, 2016 3:38pm'>2016-01-11 15:38:59 +0000</time>
+<script>$('.time_ago').timeago().tooltip()</script>
+ &nbsp;
+</div>
+<a class="pull-right" href="/governoeletronico/poalivre/tree/ec2ffdb84e9cfde5f15c6390a81a372784669933">Browse Code »</a>
+</div>
+</li>
+
+</ul>
+<div class='tree-content-holder' id='tree-content-holder'>
+<article class='file-holder'>
+<div class='file-title'>
+<i class='fa fa-file'></i>
+<strong>
+pin_azul.svg
+</strong>
+<small>
+1.41 KB
+</small>
+<div class='file-actions hidden-xs'>
+<div class='btn-group tree-btn-group'>
+<span class="btn btn-small disabled">Edit</span>
+<a class="btn btn-sm" href="/governoeletronico/poalivre/raw/master/www/img/pin_azul.svg" target="_blank">Raw</a>
+<a class="btn btn-sm" href="/governoeletronico/poalivre/blame/master/www/img/pin_azul.svg">Blame</a>
+<a class="btn btn-sm" href="/governoeletronico/poalivre/commits/master/www/img/pin_azul.svg">History</a>
+<a class="btn btn-sm" href="/governoeletronico/poalivre/blob/230c2390f341cdc9b7cb45607020560b4beaa31b/www/img/pin_azul.svg">Permalink</a>
+</div>
+
+</div>
+</div>
+<div class='file-content code'>
+<div class='code file-content white'>
+<div class='line-numbers'>
+<a href="#L1" id="L1" rel="#L1"><i class='fa fa-link'></i>
+1
+</a><a href="#L2" id="L2" rel="#L2"><i class='fa fa-link'></i>
+2
+</a><a href="#L3" id="L3" rel="#L3"><i class='fa fa-link'></i>
+3
+</a><a href="#L4" id="L4" rel="#L4"><i class='fa fa-link'></i>
+4
+</a><a href="#L5" id="L5" rel="#L5"><i class='fa fa-link'></i>
+5
+</a><a href="#L6" id="L6" rel="#L6"><i class='fa fa-link'></i>
+6
+</a><a href="#L7" id="L7" rel="#L7"><i class='fa fa-link'></i>
+7
+</a><a href="#L8" id="L8" rel="#L8"><i class='fa fa-link'></i>
+8
+</a><a href="#L9" id="L9" rel="#L9"><i class='fa fa-link'></i>
+9
+</a><a href="#L10" id="L10" rel="#L10"><i class='fa fa-link'></i>
+10
+</a><a href="#L11" id="L11" rel="#L11"><i class='fa fa-link'></i>
+11
+</a><a href="#L12" id="L12" rel="#L12"><i class='fa fa-link'></i>
+12
+</a><a href="#L13" id="L13" rel="#L13"><i class='fa fa-link'></i>
+13
+</a><a href="#L14" id="L14" rel="#L14"><i class='fa fa-link'></i>
+14
+</a><a href="#L15" id="L15" rel="#L15"><i class='fa fa-link'></i>
+15
+</a><a href="#L16" id="L16" rel="#L16"><i class='fa fa-link'></i>
+16
+</a><a href="#L17" id="L17" rel="#L17"><i class='fa fa-link'></i>
+17
+</a><a href="#L18" id="L18" rel="#L18"><i class='fa fa-link'></i>
+18
+</a><a href="#L19" id="L19" rel="#L19"><i class='fa fa-link'></i>
+19
+</a><a href="#L20" id="L20" rel="#L20"><i class='fa fa-link'></i>
+20
+</a></div>
+<pre class="code highlight"><code><span id="LC1" class="line"><span class="cp">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</span></span>&#x000A;<span id="LC2" class="line"><span class="c">&lt;!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;</span></span>&#x000A;<span id="LC3" class="line"><span class="cp">&lt;!DOCTYPE svg PUBLIC &quot;-//W3C//DTD SVG 1.1//EN&quot; &quot;http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd&quot;&gt;</span></span>&#x000A;<span id="LC4" class="line"><span class="nt">&lt;svg</span> <span class="na">version=</span><span class="s">&quot;1.1&quot;</span> <span class="na">id=</span><span class="s">&quot;Camada_1&quot;</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.w3.org/2000/svg&quot;</span> <span class="na">xmlns:xlink=</span><span class="s">&quot;http://www.w3.org/1999/xlink&quot;</span> <span class="na">x=</span><span class="s">&quot;0px&quot;</span> <span class="na">y=</span><span class="s">&quot;0px&quot;</span></span>&#x000A;<span id="LC5" class="line">	 <span class="na">width=</span><span class="s">&quot;27px&quot;</span> <span class="na">height=</span><span class="s">&quot;39px&quot;</span> <span class="na">viewBox=</span><span class="s">&quot;0 0 27 39&quot;</span> <span class="na">enable-background=</span><span class="s">&quot;new 0 0 27 39&quot;</span> <span class="na">xml:space=</span><span class="s">&quot;preserve&quot;</span><span class="nt">&gt;</span></span>&#x000A;<span id="LC6" class="line"><span class="nt">&lt;g&gt;</span></span>&#x000A;<span id="LC7" class="line">	<span class="nt">&lt;path</span> <span class="na">fill=</span><span class="s">&quot;#83A1BA&quot;</span> <span class="na">d=</span><span class="s">&quot;M13.502,0C6.046,0,0,5.894,0,13.161c0,3.719,3.72,10.381,3.72,10.381L13.006,39l9.689-15.28</span></span>&#x000A;<span id="LC8" class="line">		<span class="err">c0,0,4.304-6.353,4.304-10.559C27.005,5.894,20.958,0,13.502,0z&quot;</span><span class="nt">/&gt;</span></span>&#x000A;<span id="LC9" class="line">	<span class="nt">&lt;g&gt;</span></span>&#x000A;<span id="LC10" class="line">		<span class="nt">&lt;path</span> <span class="na">fill=</span><span class="s">&quot;#FFFFFF&quot;</span> <span class="na">d=</span><span class="s">&quot;M7.992,14.388c-0.347,0.34-0.348,0.893-0.003,1.231c0.345,0.339,0.908,0.337,1.254-0.004</span></span>&#x000A;<span id="LC11" class="line">			<span class="err">c2.705-2.653,5.806-2.668,8.489-0.035c0.346,0.339,0.908,0.337,1.256-0.003c0.348-0.341,0.35-0.893,0.005-1.232</span></span>&#x000A;<span id="LC12" class="line">			<span class="err">C15.619,11.034,11.392,11.052,7.992,14.388z&quot;</span><span class="nt">/&gt;</span></span>&#x000A;<span id="LC13" class="line">		<span class="nt">&lt;path</span> <span class="na">fill=</span><span class="s">&quot;#FFFFFF&quot;</span> <span class="na">d=</span><span class="s">&quot;M5.364,11.809c-0.348,0.341-0.35,0.893-0.003,1.232c0.344,0.338,0.906,0.336,1.254-0.005</span></span>&#x000A;<span id="LC14" class="line">			<span class="err">c4.164-4.085,9.631-4.107,13.763-0.052c0.347,0.338,0.91,0.336,1.257-0.004c0.348-0.341,0.35-0.894,0.006-1.231</span></span>&#x000A;<span id="LC15" class="line">			<span class="err">C16.816,7.015,10.223,7.042,5.364,11.809z&quot;</span><span class="nt">/&gt;</span></span>&#x000A;<span id="LC16" class="line">		<span class="nt">&lt;path</span> <span class="na">fill=</span><span class="s">&quot;#FFFFFF&quot;</span> <span class="na">d=</span><span class="s">&quot;M15.02,17.364c0,0.823-0.68,1.491-1.52,1.491l0,0c-0.839,0-1.521-0.667-1.521-1.491l0,0</span></span>&#x000A;<span id="LC17" class="line">			<span class="err">c0-0.824,0.682-1.492,1.521-1.492l0,0C14.34,15.872,15.02,16.54,15.02,17.364L15.02,17.364z&quot;</span><span class="nt">/&gt;</span></span>&#x000A;<span id="LC18" class="line">	<span class="nt">&lt;/g&gt;</span></span>&#x000A;<span id="LC19" class="line"><span class="nt">&lt;/g&gt;</span></span>&#x000A;<span id="LC20" class="line"><span class="nt">&lt;/svg&gt;</span></span></code></pre>&#x000A;
+</div>
+
+</div>
+
+</article>
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script>
+  (function() {
+    $('.page-sidebar-collapsed .nav-sidebar a').tooltip({
+      placement: "right"
+    });
+  
+  }).call(this);
+</script>
+
+</body>
+</html>

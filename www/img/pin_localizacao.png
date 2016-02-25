@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='GitLab Community Edition' name='description'>
+<title>
+www/img/pin_localizacao.png at master | 
+GitLab
+</title>
+<link href="/assets/favicon-d6aa61c7c265900a7d4c45d3ac2b461f.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/assets/application-715bc4efac6b42deb84d495309f19f9a.css" media="all" rel="stylesheet" />
+<link href="/assets/print-8597f8b497e02f892aa5a4b25d5a857b.css" media="print" rel="stylesheet" />
+<script src="/assets/application-5ec1aeb4604cbfbeff836f956308b0ed.js"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="3KGk1Aaqz1cgP9TCd9usyBC2lEWcYAX4rQZEdq0OPUw=" name="csrf-token" />
+<script type="text/javascript">
+//<![CDATA[
+window.gon={};gon.default_issues_tracker="gitlab";gon.api_version="v3";gon.relative_url_root="";gon.default_avatar_url="https://git.procempa.com.br/assets/no_avatar-fd406ccede8cb1881f20921c8bfa169b.png";gon.current_user_id=15;gon.api_token="GGaovrb5-iKwSxwLTbzy";
+//]]>
+</script>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='#474D57' name='theme-color'>
+
+
+</head>
+
+<body class='ui_mars  project' data-page='projects:blob:show' data-project-id='203'>
+<header class='navbar navbar-fixed-top navbar-gitlab'>
+<div class='navbar-inner'>
+<div class='container'>
+<div class='app_logo'>
+<a class="home has_bottom_tooltip" href="/" title="Dashboard"><img alt="Logo white" src="/assets/logo-white-0b53cd4ea06811d79b3acd486384e047.png" />
+</a></div>
+<h1 class='title'><span><a href="/groups/governoeletronico">governoeletronico</a> / <a href="/governoeletronico/poalivre">poalivre</a></span></h1>
+<button class='navbar-toggle' data-target='.navbar-collapse' data-toggle='collapse' type='button'>
+<span class='sr-only'>Toggle navigation</span>
+<i class='fa fa-bars'></i>
+</button>
+<div class='navbar-collapse collapse'>
+<ul class='nav navbar-nav'>
+<li class='hidden-sm hidden-xs'>
+<div class='search'>
+<form accept-charset="UTF-8" action="/search" class="navbar-form pull-left" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<input class="search-input" id="search" name="search" placeholder="Search in this project" type="search" />
+<input id="group_id" name="group_id" type="hidden" />
+<input id="project_id" name="project_id" type="hidden" value="203" />
+<input id="search_code" name="search_code" type="hidden" value="true" />
+<input id="repository_ref" name="repository_ref" type="hidden" value="master" />
+
+<div class='search-autocomplete-opts hide' data-autocomplete-path='/search/autocomplete' data-autocomplete-project-id='203' data-autocomplete-project-ref='master'></div>
+</form>
+
+</div>
+<script>
+  $('.search-input').on('keyup', function(e) {
+    if (e.keyCode == 27) {
+      $('.search-input').blur()
+    }
+  })
+</script>
+
+</li>
+<li class='visible-sm visible-xs'>
+<a class="has_bottom_tooltip" data-original-title="Search area" href="/search" title="Search"><i class='fa fa-search'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="Help" href="/help" title="Help"><i class='fa fa-question-circle'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="Public area" href="/explore" title="Explore"><i class='fa fa-globe'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="My snippets" href="/s/leonardo.kuamoto" title="My snippets"><i class='fa fa-clipboard'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="New project" href="/projects/new" title="New project"><i class='fa fa-plus'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-original-title="Profile settings&quot;" href="/profile" title="Profile settings"><i class='fa fa-user'></i>
+</a></li>
+<li>
+<a class="has_bottom_tooltip" data-method="delete" data-original-title="Logout" href="/users/sign_out" rel="nofollow" title="Logout"><i class='fa fa-sign-out'></i>
+</a></li>
+<li class='hidden-xs'>
+<a class="profile-pic has_bottom_tooltip" data-original-title="Your profile" href="/u/leonardo.kuamoto" id="profile-pic"><img alt="User activity" src="https://secure.gravatar.com/avatar/c58df5bb6bf095c98a2c2ce40c46822e?s=60&amp;d=identicon" />
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+
+
+<script>
+  GitLab.GfmAutoComplete.dataSource = "/governoeletronico/poalivre/autocomplete_sources?type=NilClass&type_id=master%2Fwww%2Fimg%2Fpin_localizacao.png"
+  GitLab.GfmAutoComplete.setup();
+</script>
+
+<div class='page-sidebar-expanded page-with-sidebar'>
+
+<div class='sidebar-wrapper'>
+<ul class='project-navigation nav nav-sidebar'>
+<li class="home"><a class="shortcuts-project" href="/governoeletronico/poalivre" title="Project"><i class='fa fa-dashboard'></i>
+<span>
+Project
+</span>
+</a></li><li class="active"><a class="shortcuts-tree" href="/governoeletronico/poalivre/tree/master" title="Files"><i class='fa fa-files-o'></i>
+<span>
+Files
+</span>
+</a></li><li class=""><a class="shortcuts-commits" href="/governoeletronico/poalivre/commits/master" title="Commits"><i class='fa fa-history'></i>
+<span>
+Commits
+</span>
+</a></li><li class=""><a class="shortcuts-network" href="/governoeletronico/poalivre/network/master" title="Network"><i class='fa fa-code-fork'></i>
+<span>
+Network
+</span>
+</a></li><li class=""><a class="shortcuts-graphs" href="/governoeletronico/poalivre/graphs/master" title="Graphs"><i class='fa fa-area-chart'></i>
+<span>
+Graphs
+</span>
+</a></li><li class=""><a href="/governoeletronico/poalivre/milestones" title="Milestones"><i class='fa fa-clock-o'></i>
+<span>
+Milestones
+</span>
+</a></li><li class=""><a class="shortcuts-issues" href="/governoeletronico/poalivre/issues" title="Issues"><i class='fa fa-exclamation-circle'></i>
+<span>
+Issues
+<span class='count issue_counter'>0</span>
+</span>
+</a></li><li class=""><a class="shortcuts-merge_requests" href="/governoeletronico/poalivre/merge_requests" title="Merge Requests"><i class='fa fa-tasks'></i>
+<span>
+Merge Requests
+<span class='count merge_counter'>0</span>
+</span>
+</a></li><li class=""><a href="/governoeletronico/poalivre/labels" title="Labels"><i class='fa fa-tags'></i>
+<span>
+Labels
+</span>
+</a></li><li class=""><a class="shortcuts-wiki" href="/governoeletronico/poalivre/wikis/home" title="Wiki"><i class='fa fa-book'></i>
+<span>
+Wiki
+</span>
+</a></li></ul>
+
+<div class='collapse-nav'>
+<a class="toggle-nav-collapse" href="#" title="Open/Close"><i class="fa fa-angle-left"></i></a>
+
+</div>
+</div>
+<div class='content-wrapper'>
+<div class='container-fluid'>
+<div class='content'>
+<div class='flash-container'>
+</div>
+
+<div class='clearfix'>
+<div class='tree-ref-holder'>
+<form accept-charset="UTF-8" action="/governoeletronico/poalivre/refs/switch" class="project-refs-form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<select class="project-refs-select select2 select2-sm" id="ref" name="ref"><optgroup label="Branches"><option selected="selected" value="master">master</option></optgroup><optgroup label="Tags"></optgroup></select>
+<input id="destination" name="destination" type="hidden" value="blob" />
+<input id="path" name="path" type="hidden" value="www/img/pin_localizacao.png" />
+</form>
+
+
+</div>
+<div class='tree-holder' id='tree-holder'>
+<ul class='breadcrumb repo-breadcrumb'>
+<li>
+<i class='fa fa-angle-right'></i>
+<a href="/governoeletronico/poalivre/tree/master">poalivre
+</a></li>
+<li>
+<a href="/governoeletronico/poalivre/tree/master/www">www</a>
+</li>
+<li>
+<a href="/governoeletronico/poalivre/tree/master/www/img">img</a>
+</li>
+<li>
+<a href="/governoeletronico/poalivre/blob/master/www/img/pin_localizacao.png"><strong>
+pin_localizacao.png
+</strong>
+</a></li>
+</ul>
+<ul class='blob-commit-info well hidden-xs'>
+<li class='commit js-toggle-container'>
+<div class='commit-row-title'>
+<strong class='str-truncated'>
+<a class="commit-row-message" href="/governoeletronico/poalivre/commit/ec2ffdb84e9cfde5f15c6390a81a372784669933">Imagens em alta resolução</a>
+</strong>
+<div class='pull-right'>
+<a class="commit_short_id" href="/governoeletronico/poalivre/commit/ec2ffdb84e9cfde5f15c6390a81a372784669933">ec2ffdb8</a>
+</div>
+<div class='notes_count'>
+</div>
+</div>
+<div class='commit-row-info'>
+<a class="commit-author-link has_tooltip" data-original-title="ivson.viana@procempa.com.br" href="/u/ivson.viana"><img alt="" class="avatar s24" src="https://secure.gravatar.com/avatar/6df440a815a0a5debf65cecbf2d58617?s=24&amp;d=identicon" width="24" /> <span class="commit-author-name">Ivson Monteiro Viana</span></a>
+authored
+<div class='committed_ago'>
+<time class='time_ago' data-placement='top' data-toggle='tooltip' datetime='2016-01-11T15:38:59Z' title='Jan 11, 2016 3:38pm'>2016-01-11 15:38:59 +0000</time>
+<script>$('.time_ago').timeago().tooltip()</script>
+ &nbsp;
+</div>
+<a class="pull-right" href="/governoeletronico/poalivre/tree/ec2ffdb84e9cfde5f15c6390a81a372784669933">Browse Code »</a>
+</div>
+</li>
+
+</ul>
+<div class='tree-content-holder' id='tree-content-holder'>
+<article class='file-holder'>
+<div class='file-title'>
+<i class='fa fa-file'></i>
+<strong>
+pin_localizacao.png
+</strong>
+<small>
+3.37 KB
+</small>
+<div class='file-actions hidden-xs'>
+<div class='btn-group tree-btn-group'>
+
+<a class="btn btn-sm" href="/governoeletronico/poalivre/raw/master/www/img/pin_localizacao.png" target="_blank">Raw</a>
+<a class="btn btn-sm" href="/governoeletronico/poalivre/commits/master/www/img/pin_localizacao.png">History</a>
+<a class="btn btn-sm" href="/governoeletronico/poalivre/blob/230c2390f341cdc9b7cb45607020560b4beaa31b/www/img/pin_localizacao.png">Permalink</a>
+</div>
+
+</div>
+</div>
+<div class='file-content image_file'>
+<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAACjCAYAAABSSprKAAAACXBIWXMAAC4j&#x000A;AAAuIwF4pT92AAABOWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjarZGx&#x000A;SsNQFIa/G0XFoVYI4uBwJ1FQbNXBjElbiiBYq0OSrUlDldIk3NyqfQhHtw4u&#x000A;7j6Bk6PgoPgEvoHi1MEhSHASwW/6zs/hcOAHo2LXnYZRhkGsVbvpSNfz5ewT&#x000A;M0wBQCfMUrvVOgCIkzjiJwI+XxEAz5t23WnwN+bDVGlgAmx3oywEUQH6FzrV&#x000A;IMaAGfRTDeIOMNVJuwbiASj1cn8BSkHub0BJuZ4P4gMwe67ngzEHmEHuK4Cp&#x000A;o0sNUEvSkTrrnWpZtSxL2t0kiOTxKNPRIJP7cZioNFEdHXWB/D8AFvPFdtOR&#x000A;a1XL2lvnn3E9X+b2foQAxNJjkRWEQ3X+3YWx8/tc3Bgvw+EtTE+KbPcKbjZg&#x000A;4brIVqtQ3oL78RfCs0/+HAmzJwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6AAA&#x000A;UggAARVYAAA6lwAAF2/XWh+QAAALuklEQVR42uyde4xcVR3HP3NnZ9tuH7u0&#x000A;hUgFbFEbMVY9YpRHjF6MIL6iPExMUGICFAq30IZCH/IQClY0FnqMIqKVR/sH&#x000A;EhAEKUZ6lDdiuQoUbCm2SB/Ydusu3cfszss/7llcttvu7M7rd2fON9lkM5m5&#x000A;9zfnM79zf+ec3/mdBDFTGPgp4Djgw8AHgWOBGcBRQJv9axnysR6gH9hj/3YC&#x000A;u4DNwKvAZqXNm8RQiRgAOxw4BTgZOAmYAzRX4FbtwHPAM/bvKaVN2gEcG7SP&#x000A;AWcCXwZUjezsBdYDDwMPSfXQhCBos4BzgO8AHxDWTgXgcWANcI/SptMBjKB5&#x000A;wJeAi4HT4tCl22fpWmCl0ubFhgQYBn6z9bZFwIeIrwzwI6XNIw0BMAz8JPBt&#x000A;4CobPdaLngaWKG0er1uAYeD7wC02iqxXrQMWKm1erRuAYeC/x4L7Jo2hfuCH&#x000A;wI3VGIYkKgzvXOBmO7huNG0GLlDa/CV2AMPAnwbcBpxBY6sA3ARcpbTJxAJg&#x000A;GPifAu4FjsZpQM8CZytttpf7wl6Z4Z0PPOngHaATgA1h4J8s0gPt8GAFcLlj&#x000A;NWKA812lzVoxAO2g/K4GijLLoYVKm5U1BxgGfot93p3umIxaS5Q2K2oG0Hre&#x000A;g0RzmE41gpgYI7wkcD/wVcegZM1X2uhqR6G3Onhl06ow8M+qGsAw8JcA57l2&#x000A;L6vutOPnynahYeCfDjxU7vGjEwA7gOOVNv+pCMAw8I8FNtCY85rV0nrgVKVN&#x000A;rqxdaBj4TUTpBA5eZXUKcGUlnoHXEE0HOVVe14WB/8mydaFh4H8ceB5ocm1b&#x000A;Nb0MfKKYFQyviK7zdgev6voIcEU5utDzgeNde9ZEy8LAf9+YAYaBfxhwvWvH&#x000A;mmkC8ONSPPBKYJprx5rqrDDwTxg1wDDwjwTmu/YToRVj8cBF1oWdaq/PhoH/&#x000A;uaIBhoHfBlzg2k2Ulo7GA+cCE12bidIXwsCfMyJAu9lknmsvkVow3IuJIQBP&#x000A;I0oPj6XSuQI9mQK92QLZfIFcIXo9mYAmL8GEpgQtqQTjk4k4fr1+4JihqxVD&#x000A;Z1hit863vz/P3nSejr48/QPERlBzMkHbOI/p4z0mN8dmZawZuIRoY9CBHhgG&#x000A;/iSi/ePj4/Bt2tN5dnZl6ckWSrpOS1OCGZOamDY+FiDbgaOVNr3DPQO/Egd4&#x000A;3ZkCG9szbOnIlAwPoCdbYEtHho3tGbozBelffxrwrYMFMWdKt35Xd46N7f10&#x000A;ZfJlv3ZXJs/G9n52deekN8PcA7pQu+qwF2iVaHGhAK93ZmhP56vzMx/v8f7W&#x000A;FAm5sc5Mpc0bgz3wBMnwNnVUD97A83VTR4aC3B71rKFd6OelWrqlM0NnX77q&#x000A;9+3sy7OlMyO1Wc4eCvAkiVbu6MqxL52v2f33pfPs6BL5TPx0GPjHAHg2y/pE&#x000A;ceO7TJ7tXdma27G9K8v+TF6sF3rAbGCyqOcesLUzK8aerZ1ZBD4OvzEA8KPS&#x000A;LNvTk6M3K6fJerMF9vSI60pPDAN/moewsh8FYKfAsdjO7pw0L/SAUz2iso1i&#x000A;1JHO05eT12H15Qp0pMU9C0/zgFmSLNqbljsTItC2k0QBLBSgoy8vFmBHX17a&#x000A;4P5YD0EzMF2ZPHnB88n5AhWZhy1BSVFrKN1Z8asB4mwUBTAdA4BpB/DgyuTl&#x000A;A5RmoyiAOfn8xNnotkrHXKIAxiFZTJqNogCmPPkEpdnoEZ1qIkJxyNeUZqMH&#x000A;iDkDoSUlH6AwG3s94G0p1kxKeUjuRb1EZKMg7fWIstHENNAUwZnSU5rF/cC2&#x000A;eUSnd4nR9AlJsQAF2rZZHMCp4zyR0WjKSzB1nLje4RUPeEmSRYkEzJgozwtn&#x000A;TExKTPR91SM6K0/USuURLUlR4fr4ZIIjWsT9qPLA057SpgsIpUV7M1vl1Baa&#x000A;2dokMToOlTadA526kWZda7PHkQK60hkTk7TKjIz/PDCQh6gGqDgdPbmJ1hoG&#x000A;Dq3jPI6aLLbK2CODAT5FtHlQlBLA7LZUTQbPk1Ies9tSUk+k3PMuD7QFRn8v&#x000A;dfbjuKkp2qroiW3jPI6bmpI8K/TAQFHYwa1yt1RrvQTMPixVleHFjIlJZh8m&#x000A;Gh7APQP/DO7gDVHd5vdKtDgx6Jm47e1s2VPvJzQlmDmlSfRUntVW4LF3ftwD&#x000A;/yht8sCd0q2f0uwxZ3ozs6Y00VyGsWJzMsGsKU3Mmd4cB3gAt1tWB3ggRGf+&#x000A;LUb4adIJO9g/vCVJR1+evb05OvvyReerJBNRhDl9QpK2cR4xqhqTBX49tC3e&#x000A;PToM/AeArxEzFYDuTJ6eTIF0rkAmDzmbQZb0EqS8aEalJZVgYipW0AZrjdLm&#x000A;nMEvDDfI+WkcASZs6D8pRT3rpgMCvGHe9CfgHzhJ0zqlzYsjAlTaFIhOYXaS&#x000A;pWELvx4s7Pot8LprMzFaf7DTsIcFqLTJAstdu4nRsoNOchziQ3c7LxShPyht&#x000A;nh01QOeFIpQHlhzqDSNNPdwFbHTtWDOtHi7yLBqgnfFe7NqxJupmSHHXsXgg&#x000A;SpuHgCdce1Z/2KC02VUyQKsFQMG1adW0lSKO3SkaoNJmA7DatWvVdJnSJl02&#x000A;gFZLEbSPoo61TmnzYLFvLhqgLXd/nWvfiqoPCEbzgdGuYK4CNrl2rphuVNps&#x000A;qRhAeyToAtfOFdFmxrCIMOocAqXNIwjNYIu55ilt+ioO0CoAel2bl02/Udo8&#x000A;NpYPjgmgLXn/fdfuZdFe4PKxfriUNKyfAK+49i/LmG/MWfEl5faEgf8Z4HHH&#x000A;YMx6VGnzxVIuUFIipNLmCeAOx2FM6gEuLPUi5chkXQTsczxGrauVNttqDlBp&#x000A;s8dCdCpeLwC3lONC5colXw086bgUpTxwgc14kAHQpiLOBTKOz4i6xa7uIMkD&#x000A;Udq8wjCZw07v0pvA1eW8YLm34yzHZbIdSpfYohIyAdpFSHeM+fC6bzTrfLXy&#x000A;QJQ2f2TQDlInAPYzynW+mgG0Wgh0OW7vaKnSZmdsACptdgDXOG4A/B34eaUu&#x000A;Xsk9xauAlx0/5g1UlIgVQDtQvajB4a1W2jxTyRtUdFe/0uZJGneyez8j7GsQ&#x000A;D9DqCqCjAQHeYDP54g1QabMb+F6DwdtGmSarJXggwK02GmsULSo2szoWAG0U&#x000A;1igzNA8obe6t1s2qVprIRmP1vr/i38D51bxhtWtLLa7jgKYXOMMucNcnwDoP&#x000A;aM4r5zqfVA8cCGheqDN4v1DarK3FjasOcFBAUy8bRt+ghMTcOHogSpvngF/V&#x000A;CcDLyr1IKx6g1RLgvzGH96jS5ne1NKBmAJU2e4l2/cZVGeCyWhtR6xK1twEb&#x000A;YgrwZqXNPxsaoC0dfFEMA5q3gOslGFLzItFKm+ep4Ip1pZ7fSpv9DuD/tQzY&#x000A;HRN4zyNojVMEQKVNB1EiVBw032aiO4BDtBaBh3AN0ZpDlX5saID2Vz0Pufsr&#x000A;uoErpRkl6qQLG5b/SCjAG2y6pAM4UkMRpSRI0r+IagLgAI7shT3AJcLMWjCW&#x000A;Gi7VkNgDTMLAvx/4ugBTSi5E0Ghd6DvhOlEhgFoqi4D5zlgCVNq8CVxbYzNW&#x000A;SZjvjKsHAtxM7fZX7CYG5TVFA7TVES+s0e2XKm06HcDSIT4F/LLKt/0bMUmB&#x000A;jMWRlUTpiNVM15s/+JRMB7B0L9xH9Sa776r0lrBG9ECANcD6Ct+jC4HznXUB&#x000A;cNBkd38Fb7O8mMM2HMCxQ9wE/KBCl98CrCRm8oifVgCvVeC6C5Q2/Q5g5b0w&#x000A;Tfn33q+zZ0ThAFYH4mM2qCmHROR3NhRAq4WUZ6vaKvtsdQCr7IW7yxDyx/44&#x000A;oTh7IERTbKUMuhcrbd52AGs7NpxLtG43Wv2VOqhhE3cPRGnz0hjHb6LyOxsW&#x000A;oNW1RAUGitUddo8iDqAML+wBLi7y7fupo4Od68UDBw5rvq+Ity5X2rzlAMrU&#x000A;pdbDDqbXiNI0cABleuF2Dl0V/tI4znc2kgcCaIYvY/KwPbwSB1C2F+aIEqEG&#x000A;p0TU7dGx9eiBA7t+fzbopZVKm9ccwHhpGbCLaD/7cpzipzDwzw4D/9x6/o6J&#x000A;QqHgSMdY/xsA2q+Uo/YGSr0AAAAASUVORK5CYII='>
+</div>
+
+</article>
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script>
+  (function() {
+    $('.page-sidebar-collapsed .nav-sidebar a').tooltip({
+      placement: "right"
+    });
+  
+  }).call(this);
+</script>
+
+</body>
+</html>
