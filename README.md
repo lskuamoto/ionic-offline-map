@@ -1,14 +1,14 @@
-Aplicativo para acesso offline de mapas desenvolvido em IONIC + LeafLet (Até o momento foi testado apenas para Android!).
+Offline map mobile app using IONIC + LeafLet (it was tested only for Android!).
 
-O aplicativo importa um arquivo '.mbtiles' exportado pelo TileMill (https://www.mapbox.com/tilemill/) em um banco Sqlite e acessa ele através do LeafLet.
+The app imports a '.mbtiles' file exported using TileMill (https://www.mapbox.com/tilemill/) to a Sqlite Database.
 
-Tem uma referência boa sobre como exportar os tiles no TileMill (https://www.e-education.psu.edu/geog585/node/711).
+You cant get a good tutorial of how to export the tiles in https://www.e-education.psu.edu/geog585/node/711.
 
-No TileMill foram importados os arquivos geográficos de Porto Alegre, disponíveis em http://metro.teczno.com/#porto-alegre e se aplicou um CartoCSS (https://www.mapbox.com/tilemill/docs/manual/carto/) para que ficasse parecido com o OpenStreetMap(www.openstreetmap.org).
+In this project I'd used the geo files from Porto Alegre / Brazil available in http://metro.teczno.com/#porto-alegre , and I'd applied a CartoCSS (https://www.mapbox.com/tilemill/docs/manual/carto/) to look like OpenStreetMap(www.openstreetmap.org).
 
-O arquivo '.mbtiles' está na pasta 'www', e é copiado para a pasta destino de cada plataforma utilizando-se do plugin 'Cordova-plugin-dbcopy'.
+The '.mbtiles' i stored in 'www' folded, and it is copied to the correct folder for each platform using the plugin 'Cordova-plugin-dbcopy'.
 
-Utiliza os plugins:
+Using the following plugins:
 - cordova-sqlite-storage (https://github.com/litehelpers/Cordova-sqlite-storage)
 > cordova plugin add https://github.com/litehelpers/Cordova-sqlite-storage
 
@@ -21,7 +21,7 @@ Utiliza os plugins:
 - cordova-plugin-crosswalk-webview (https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview)
 > cordova plugin add cordova-plugin-crosswalk-webview
 
-Foi baseado nos seguintes projetos/referências:
+Based on the following references:
 
 - http://sebastian-meier.github.io/OfflineMaps/index.html
 - http://geospatialscott.blogspot.com.br/2012/04/phonegap-leaflet-tilemill-offline.html
