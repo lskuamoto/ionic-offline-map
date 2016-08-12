@@ -47,20 +47,18 @@
         "is_top_level": true,
         "variables": {}
     },
-    "cordova-sqlite-storage": {
+    "cordova-plugin-crosswalk-webview": {
         "source": {
-            "type": "git",
-            "url": "https://github.com/litehelpers/Cordova-sqlite-storage.git",
-            "subdir": "."
+            "type": "registry",
+            "id": "cordova-plugin-crosswalk-webview"
         },
         "is_top_level": true,
         "variables": {}
     },
-    "me.rahul.plugins.sqlDB": {
+    "cordova.plugins.diagnostic": {
         "source": {
-            "type": "git",
-            "url": "https://github.com/an-rahulpandey/cordova-plugin-dbcopy.git",
-            "subdir": "."
+            "type": "registry",
+            "id": "cordova.plugins.diagnostic"
         },
         "is_top_level": true,
         "variables": {}
@@ -73,10 +71,27 @@
         "is_top_level": true,
         "variables": {}
     },
-    "cordova-plugin-crosswalk-webview": {
+    "cordova-plugin-compat": {
         "source": {
             "type": "registry",
-            "id": "cordova-plugin-crosswalk-webview"
+            "id": "cordova-plugin-compat"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-dbcopy": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/an-rahulpandey/cordova-plugin-dbcopy.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-sqlite-ext": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-sqlite-ext"
         },
         "is_top_level": true,
         "variables": {}

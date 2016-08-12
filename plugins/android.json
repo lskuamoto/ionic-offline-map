@@ -10,33 +10,28 @@
         "cordova-plugin-console": {
             "PACKAGE_NAME": "br.com.procempa.mapaOffline"
         },
-        "cordova-plugin-crosswalk-webview": {
-            "PACKAGE_NAME": "br.com.procempa.mapaOffline"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "br.com.procempa.mapaOffline"
-        },
-        "cordova-plugin-geolocation": {
+        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "br.com.procempa.mapaOffline"
         },
         "cordova-plugin-splashscreen": {
             "PACKAGE_NAME": "br.com.procempa.mapaOffline"
         },
-        "cordova-plugin-statusbar": {
+        "cordova.plugins.diagnostic": {
             "PACKAGE_NAME": "br.com.procempa.mapaOffline"
         },
-        "cordova-plugin-whitelist": {
+        "cordova-plugin-geolocation": {
             "PACKAGE_NAME": "br.com.procempa.mapaOffline"
         },
-        "cordova-sqlite-storage": {
+        "cordova-plugin-dbcopy": {
             "PACKAGE_NAME": "br.com.procempa.mapaOffline"
         },
-        "ionic-plugin-keyboard": {
-            "PACKAGE_NAME": "br.com.procempa.mapaOffline"
-        },
-        "me.rahul.plugins.sqlDB": {
+        "cordova-sqlite-ext": {
             "PACKAGE_NAME": "br.com.procempa.mapaOffline"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "br.com.procempa.mapaOffline"
+        }
+    }
 }

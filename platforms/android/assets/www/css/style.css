@@ -1,0 +1,33 @@
+/* Empty. Add your own CSS if you like */
+body {
+  height: auto;
+  min-height: 100%;
+}
+
+#map{width:100%; height:100%;}
+
+.scroll, .angular-leaflet-map {
+  height: 100%;
+}
+
+.leaflet-bottom {
+  bottom : 10px;
+}
+
+.item.item-body p {
+  margin-top: 0;
+}
+
+.tabs.border-top {
+  border-top: 1px solid #ddd !important;
+}
+
+
+.pin-position-icon  {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 28px;
+  width: 28px;
+  background-image: url('../img/pin_localizacao.png');
+  background-size:contain;
+}
